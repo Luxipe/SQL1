@@ -3,7 +3,7 @@ package com.messi;
 import java.sql.*;
 import java.util.Scanner;
 
-public class eclipseSolar1 {
+public class eclipseSolar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String host = "localhost";
